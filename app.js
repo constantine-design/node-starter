@@ -4,7 +4,7 @@ console.log("---------------------");
 console.log("     Sample text:    ");
 console.log("---------------------");
 
-info("This is info message");
+info("This is first info message"," Another info message");
 debugger;
 warn("This is warning message");
 debugger;
