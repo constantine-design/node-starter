@@ -1,0 +1,26 @@
+{
+  "name": "node-starter",
+  "version": "0.1.1",
+  "description": "Homework starter project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start:debug": "node --inspect-brk app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/constantine-design/node-starter.git"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "Constantine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/constantine-design/node-starter/issues"
+  },
+  "homepage": "https://github.com/constantine-design/node-starter#readme",
+  "dependencies": {
+    "chalk": "4.1.2"
+  }
+}
